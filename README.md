@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo principal la práctica y aplicación de técni
 - matplotlib: Para la creación de gráficos estáticos.
 - seaborn: Para la visualización de datos estadísticos más atractiva.
 
-# Consideraciones en Instalación
+# Consideraciones en Instalación ⚙️
 Si usamos mamba:
 
 !mamba install pandas==1.3.3 -y
@@ -37,7 +37,7 @@ pip install seaborn
 
 En esta ocasion el codigo se escribio en Jupyter Notebook para Python .
 
-## Ejemplos de uso
+## Ejemplos de uso 📎
 Este código explora y demuestra el uso de diferentes modelos de regresión para predecir el precio de los automóviles. Veamos cómo se detalla y cómo se aplica cada modelo:
  1. Carga y Exploración Inicial de Datos: comenzamos cargando un conjunto de datos de automóviles (por parte IBM en este caso) y verificamos las primeras filas.
  2. Regresión Lineal Simple: se entrena un modelo de regresión lineal simple utilizando la variable 'highway-mpg' para predecir el 'price'. Se muestran los valores de intercepción y coeficiente.
@@ -47,7 +47,7 @@ Este código explora y demuestra el uso de diferentes modelos de regresión para
  6. Pipelines para Preprocesamiento y Modelado: se utiliza Pipeline de sklearn para encadenar operaciones como escalado de datos y transformación polinomial antes de aplicar el modelo de regresión.
  7. Evaluación del Modelo: Se calculan métricas como R^2 (coeficiente de determinación) y MSE (Error Cuadrático Medio) para evaluar el rendimiento de los diferentes modelos.
 
-## Contribuciones
+## Contribuciones 🖨️
 Si te interesa contribuir a este proyecto o usarlo independiente, considera:
 - Hacer un "fork" del repositorio.
 - Crear una nueva rama (git checkout -b feature/nueva-caracteristica).
@@ -55,5 +55,5 @@ Si te interesa contribuir a este proyecto o usarlo independiente, considera:
 - Subir tus cambios a la rama (git push origin feature/nueva-caracteristica).
 - Abrir un "Pull Request".
 
-## Licencia
+## Licencia 📜
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE (si aplica) para más detalles.
