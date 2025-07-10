@@ -1,6 +1,13 @@
 # Modelos-clasicos-de-predicciones-para-datos-en-precios-de-autos
 Este proyecto tiene como objetivo principal la práctica y aplicación de técnicas de análisis de datos y modelos de regresión para predecir precios de automóviles. Utiliza un conjunto de datos real para explorar diferentes modelos predictivos, como la regresión lineal simple, la regresión lineal múltiple y la regresión polinomial.
 
+## Tecnologias usadas 🐍
+- pandas: Para manipulación y análisis de datos.
+- numpy: Para operaciones numéricas eficientes.
+- scikit-learn (sklearn): Para la implementación de modelos de regresión lineal, transformación de características (PolynomialFeatures, StandardScaler), y métricas de evaluación (mean_squared_error, r2_score).
+- matplotlib: Para la creación de gráficos estáticos.
+- seaborn: Para la visualización de datos estadísticos más atractiva.
+
 # Consideraciones en Instalación
 Si usamos mamba:
 
@@ -28,15 +35,7 @@ pip install matplotlib
 pip install seaborn
 
 
-En esta ocasion el codigo se escribio en Jupyter Notebook para Python.
-
-
-## Tecnologias usadas
-- pandas: Para manipulación y análisis de datos.
-- numpy: Para operaciones numéricas eficientes.
-- scikit-learn (sklearn): Para la implementación de modelos de regresión lineal, transformación de características (PolynomialFeatures, StandardScaler), y métricas de evaluación (mean_squared_error, r2_score).
-- matplotlib: Para la creación de gráficos estáticos.
-- seaborn: Para la visualización de datos estadísticos más atractiva.
+En esta ocasion el codigo se escribio en Jupyter Notebook para Python .
 
 ## Ejemplos de uso
 Este código explora y demuestra el uso de diferentes modelos de regresión para predecir el precio de los automóviles. Veamos cómo se detalla y cómo se aplica cada modelo:
