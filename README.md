@@ -1,4 +1,4 @@
-# Modelos-clasicos-de-predicciones-para-datos-en-precios-de-autos
+# Modelos-clasicos-de-predicciones-para-datos-en-precios-de-autos 🚗
 Este proyecto tiene como objetivo principal la práctica y aplicación de técnicas de análisis de datos y modelos de regresión para predecir precios de automóviles. Utiliza un conjunto de datos real para explorar diferentes modelos predictivos, como la regresión lineal simple, la regresión lineal múltiple y la regresión polinomial.
 
 ## Tecnologias usadas 🐍
