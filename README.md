@@ -14,6 +14,7 @@ Si usamos mamba:
 
 !mamba install seaborn -y
 
+
 Alternativamente, si usamos pip:
 
 pip install pandas==1.3.3
@@ -26,7 +27,9 @@ pip install matplotlib
 
 pip install seaborn
 
+
 En esta ocasion el codigo se escribio en Jupyter Notebook para Python.
+
 
 ## Tecnologias usadas
 - pandas: Para manipulación y análisis de datos.
