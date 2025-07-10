@@ -5,17 +5,25 @@ Este proyecto tiene como objetivo principal la práctica y aplicación de técni
 Si usamos mamba:
 
 !mamba install pandas==1.3.3 -y
+
 !mamba install numpy==1.21.2 -y
+
 !mamba install scikit-learn==0.20.1 -y
+
 !mamba install matplotlib -y
+
 !mamba install seaborn -y
 
 Alternativamente, si usamos pip:
 
 pip install pandas==1.3.3
+
 pip install numpy==1.21.2
+
 pip install scikit-learn==0.20.1
+
 pip install matplotlib
+
 pip install seaborn
 
 En esta ocasion el codigo se escribio en Jupyter Notebook para Python.
