@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo principal la práctica y aplicación de técni
 - matplotlib: Para la creación de gráficos estáticos.
 - seaborn: Para la visualización de datos estadísticos más atractiva.
 
-# Consideraciones en Instalación ⚙️
+## Consideraciones en Instalación ⚙️
 Si usamos mamba:
 
 !mamba install pandas==1.3.3 -y
@@ -38,7 +38,7 @@ pip install seaborn
 En esta ocasion el codigo se escribio en Jupyter Notebook para Python .
 
 ## Ejemplos de uso 📎
-Este código explora y demuestra el uso de diferentes modelos de regresión para predecir el precio de los automóviles. Veamos cómo se detalla y cómo se aplica cada modelo:
+Este código explora y demuestra el uso de diferentes modelos de regresión para predecir el precio de los automóviles. Los detalles y cómo se aplica cada modelo podemos entenderlo asi:
  1. Carga y Exploración Inicial de Datos: comenzamos cargando un conjunto de datos de automóviles (por parte IBM en este caso) y verificamos las primeras filas.
  2. Regresión Lineal Simple: se entrena un modelo de regresión lineal simple utilizando la variable 'highway-mpg' para predecir el 'price'. Se muestran los valores de intercepción y coeficiente.
  3. Regresión Lineal Múltiple: se entrena un modelo de regresión lineal múltiple utilizando 'horsepower', 'curb-weight', 'engine-size' y 'highway-mpg' para predecir el 'price'.
