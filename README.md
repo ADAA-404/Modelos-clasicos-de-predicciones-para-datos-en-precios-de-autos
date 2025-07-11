@@ -37,7 +37,7 @@ pip install seaborn
 
 En esta ocasion el codigo se escribio en Jupyter Notebook para Python .
 
-## Ejemplos de uso 📎
+## Ejemplo de uso 📎
 Este código explora y demuestra el uso de diferentes modelos de regresión para predecir el precio de los automóviles. Los detalles y cómo se aplica cada modelo podemos entenderlo asi:
  1. Carga y Exploración Inicial de Datos: comenzamos cargando un conjunto de datos de automóviles (por parte IBM en este caso) y verificamos las primeras filas.
  2. Regresión Lineal Simple: se entrena un modelo de regresión lineal simple utilizando la variable 'highway-mpg' para predecir el 'price'. Se muestran los valores de intercepción y coeficiente.
